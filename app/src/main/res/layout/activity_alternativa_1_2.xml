@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="6"
-        android:text="ESTÁS EN LA ACTIVIDAD 1_2"
+        android:text="Y le dijo el saltamontes pues claro tu que te creías."
         android:textAlignment="center"
         android:gravity="center_vertical"/>
 
@@ -20,7 +20,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layout_margin="8dp"
-        android:text="¿Cómo quieres que continúe la historia?"/>
+        android:text="¿Que le dijo el niño al saltamontes?"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -34,14 +34,14 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:text="¿Cómo quieres que continúe la historia?"
+            android:text="Pues que eras un saltamontes normal,como todos."
             android:onClick="alternativa1"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:text="¿Cómo quieres que continúe la historia?"
+            android:text="¿Pues no se? Un bicho normal"
             android:onClick="alternativa2"/>
 
     </LinearLayout>

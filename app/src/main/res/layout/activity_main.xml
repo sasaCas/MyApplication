@@ -11,7 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="6"
-        android:text="Hello World!"
+        android:text="Érase una vez un niño al que le gustaban mucho los saltamontes. Un día caminaba solo y se encontró con un saltamontes.
+El saltamontes le dijo al niño:
+-Hola, soy un saltamontes y tengo la pata rota. Puedes ayudarme?"
         android:textAlignment="center"
         android:gravity="center_vertical"/>
 
@@ -20,7 +22,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layout_margin="8dp"
-        android:text="¿Cómo quieres que continúe la historia?"/>
+        android:text="Qué le contesta el niño al saltamontes?"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -34,14 +36,14 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:text="¿Cómo quieres que continúe la historia?"
+            android:text="Vale saltamontes, qué puedo hacer por ti?"
             android:onClick="alternativa1"/>
         <TextView
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:text="¿Cómo quieres que continúe la historia?"
+            android:text="Oye, pero tu… cómo que hablas?"
             android:onClick="alternativa2"/>
 
     </LinearLayout>
