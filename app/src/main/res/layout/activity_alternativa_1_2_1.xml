@@ -9,6 +9,7 @@
 
     <TextView
         android:layout_width="match_parent"
+        android:background="#E1BEE7"
         android:layout_height="0dp"
         android:layout_weight="6"
         android:text="Al final el saltamontes le creyó y empezó a vivir como un saltamontes normal.

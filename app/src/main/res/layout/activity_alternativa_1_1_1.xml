@@ -10,6 +10,7 @@
 
     <TextView
         android:layout_width="match_parent"
+        android:background="#BBDEFB"
         android:layout_height="0dp"
         android:layout_weight="6"
         android:text="Espérate un momentito que voy a por el botiquín en un segundo vuelvo.
